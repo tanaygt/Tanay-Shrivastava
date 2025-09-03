@@ -11,7 +11,7 @@ export const DATA = {
     "Computer Science Student — Aspiring AI Software Developer. I love building AI-powered applications and helping tech communities grow.",
   summary:
     "Enthusiastic Computer Science student with hands-on experience in Salesforce development, full-stack projects, and AI-powered applications. Passionate about leveraging technology to solve real-world problems. Co-founded [Coders Era](/#experience), a tech community with 1500+ members, and built [Study-Buddy AI Hub](/#projects) using cutting-edge AI tools. Currently pursuing B.Tech in Computer Science with specialization in IoT & Blockchain.",
-  avatarUrl: "/Tanay.jpeg",
+  avatarUrl: "/TanayS.jpeg",
   skills: [
     "Python",
     "Java",
