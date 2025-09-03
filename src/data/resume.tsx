@@ -130,6 +130,34 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "Salesforce Expense Tracker",
+      href: "#",
+      dates: "2025",
+      active: true,
+      description:
+        "Built a comprehensive expense tracking application on the Salesforce platform that helps users log, manage, and visualize their expenses effectively. Features include secure user authentication, expense categorization, automated workflows, and interactive dashboards for expense analysis. Demonstrates advanced Salesforce customization and automation capabilities.",
+      technologies: [
+        "Salesforce Platform",
+        "Apex",
+        "Lightning Components",
+        "Visualforce",
+        "SOQL",
+        "SOSL",
+        "Salesforce Reports",
+        "Dashboards",
+        "Workflows",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/tanaygt/salesforce-expense-tracker",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "",
+    },
+    {
       title: "Study-Buddy AI Hub",
       href: "https://study-buddy-ai.vercel.app",
       dates: "2025",
